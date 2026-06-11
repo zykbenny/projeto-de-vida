@@ -89,8 +89,15 @@ body {
   font-size: 28px;
   text-align: center;
 }
+.contador {
+  font-size: 20px;
+  text-align: center;
+}
 .aba-conteudo-titulo-secundario {
   text-align: center;
   color: var(--verde);
   text-transform: uppercase;
+}
+.aba-conteudo{
+  display:none;
 }
